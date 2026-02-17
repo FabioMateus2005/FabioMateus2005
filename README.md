@@ -7,15 +7,11 @@ Bem-vindo ao meu perfil GitHub!
 - 💻 Apaixonado por programação
 - 🌱 Sempre aprendendo coisas novas
 
-## Tecnologias
+## Tecnologias que Estou Aprendendo 
 - JavaScript
 - TypeScript
 - Python
 - HTML/CSS
-
-## Projetos em Destaque
-- [Projeto 1](link-do-projeto)
-- [Projeto 2](link-do-projeto)
 
 ## Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioMateus2005&show_icons=true&theme=radical)
