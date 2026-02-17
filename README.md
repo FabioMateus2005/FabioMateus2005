@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**FabioMateus2005/FabioMateus2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub!
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎯 Desenvolvedor em formação
+- 💻 Apaixonado por programação
+- 🌱 Sempre aprendendo coisas novas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- JavaScript
+- Python
+- HTML/CSS
+
+## Projetos em Destaque
+- [Projeto 1](link-do-projeto)
+- [Projeto 2](link-do-projeto)
+
+## Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioMateus2005&show_icons=true&theme=radical)
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-linkedin)
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](seu-link-twitter)
