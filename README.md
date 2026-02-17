@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil GitHub!
 - JavaScript
 - TypeScript
 - Python
-- HTML5/CSS
+- HTML/CSS
 
 ## Projetos em Destaque
 - [Projeto 1](link-do-projeto)
