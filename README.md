@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil GitHub!
 ## Tecnologias
 - JavaScript
 - Python
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  HTML5/CSS
 
 ## Projetos em Destaque
 - [Projeto 1](link-do-projeto)
