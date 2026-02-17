@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil GitHub!
 
 ## Tecnologias
 - JavaScript
+- TypeScript
 - Python
 - HTML5/CSS
 
