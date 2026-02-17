@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil GitHub!
 ## Tecnologias
 - JavaScript
 - Python
-  HTML5/CSS
+- HTML5/CSS
 
 ## Projetos em Destaque
 - [Projeto 1](link-do-projeto)
