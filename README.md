@@ -6,6 +6,7 @@ Bem-vindo ao meu perfil GitHub!
 - 🎯 Desenvolvedor em formação
 - 💻 Apaixonado por programação e tecnologia 
 - 🌱 Sempre aprendendo coisas novas
+-  Buscando Minha Primeira Oportunidade 
 
 ## Tecnologias que Estou Aprendendo 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
