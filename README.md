@@ -1,6 +1,6 @@
 ## Olá Meu Nome é Fabio Mateus 👋
 
-Bem-vindo ao meu perfil GitHub!
+Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
 - 🎯 Desenvolvedor em formação
