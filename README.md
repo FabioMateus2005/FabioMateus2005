@@ -8,10 +8,8 @@ Bem-vindo ao meu perfil GitHub!
 - 🌱 Sempre aprendendo coisas novas
 
 ## Tecnologias que Estou Aprendendo 
-- JavaScript
-- TypeScript
-- Python
-- HTML/CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioMateus2005&show_icons=true&theme=radical)
