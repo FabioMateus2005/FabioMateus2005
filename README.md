@@ -22,6 +22,6 @@ Bem-vindo ao meu perfil do GitHub!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiomateus8001/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateusfabio82@gmail.com)
 
-## Linguagens Mais Usadas
+## Linguagens Que Eu Mais Uso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus2005&layout=compact&theme=dark)
