@@ -1,6 +1,6 @@
 ## Olá Meu Nome é Fabio Mateus, Tudo Beleza?
 
-Bem-vindo ao meu perfil do GitHub!
+Sejam Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
 - 🎯 Desenvolvedor em formação
