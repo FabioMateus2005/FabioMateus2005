@@ -5,7 +5,7 @@ Sejam Bem-vindo ao meu perfil do GitHub!
 ## Sobre mim
 - 🎯 Desenvolvedor em Formação
 - 💻 Apaixonado por programação e tecnologia 
-- 🌱 Sempre Procuro aprender coisas novas e Também aprender ferramentas novas
+- 🌱 Sempre Procuro aprender coisas novas e Também aprender sobre ferramentas novas
 - 🚀 Em Busca da minha primeira oportunidade profissional
 
 ## Tecnologias e Ferramentas que Estou Aprendendo 
