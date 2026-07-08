@@ -3,7 +3,7 @@
 Sejam Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-- 🎯 Desenvolvedor em Formação
+- 🎯 "Desenvolvedor Full-Stack Júnior | Graduando em Análise e Desenvolvimento de Sistemas"
 - 💻 Apaixonado por programação e tecnologia 
 - 🌱 Sempre Procuro aprender coisas novas e Também aprender sobre ferramentas novas
 - 🚀 Em Busca da minha primeira oportunidade profissional
