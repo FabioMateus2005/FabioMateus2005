@@ -6,7 +6,7 @@ Sejam Bem-vindo ao meu perfil do GitHub!
 - 🎯 Desenvolvedor Full-Stack Júnior | Graduando em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por programação e tecnologia
 - 🌱 Aprendendo constantemente — hoje estudando lógica em Python e aprofundando CSS/Flexbox
-- 🚀 Em busca da minha primeira oportunidade como desenvolvedor júnior
+- 🚀 Em busca da minha primeira oportunidade profissional como desenvolvedor júnior
 
 ## Tecnologias e Ferramentas 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
