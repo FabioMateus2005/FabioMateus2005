@@ -3,7 +3,7 @@
 Sejam Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-- 🎯 Desenvolvedor Full-Stack Júnior | Graduando em Análise e Desenvolvimento de Sistemas
+- 🎯 Desenvolvedor Full-Stack Júnior ou Analista de Sistemas Júnior | Graduando em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por programação e tecnologia
 - 🌱 Aprendendo constantemente — hoje estudando lógica em Python e aprofundando CSS/Flexbox
 - 🚀 Em busca da minha primeira oportunidade profissional como desenvolvedor júnior
