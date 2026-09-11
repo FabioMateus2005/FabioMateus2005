@@ -6,7 +6,7 @@ Sejam Bem-vindo ao meu perfil do GitHub!
 - 🎯 Desenvolvedor Software Full-Stack Júnior, Analista de Sistemas Júnior ou Trainee | Graduando em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por programação e tecnologia
 - 🛠️ Stack: HTML5, CSS,  JavaScript, TypeScript, React, Node.js
-- 🌱 Aprendendo constantemente — atualmente aprofundando Python e explorando back-end
+- 🌱 Aprendendo e Praticando constantemente — atualmente aprofundando Python e explorando back-end
 - 🚀 Em busca da minha primeira oportunidade profissional como desenvolvedor júnior
 
 ## Tecnologias e Ferramentas 
